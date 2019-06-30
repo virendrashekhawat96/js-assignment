@@ -1,0 +1,5 @@
+//Display month name
+https://jsfiddle.net/virendra97/h42aou9k/12/
+
+//compound interest
+https://jsfiddle.net/virendra97/bfqwoj1u/37/
