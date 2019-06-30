@@ -1,0 +1,5 @@
+//simple interest
+https://jsfiddle.net/virendra97/g8em0xa5/19/
+
+//student information
+https://jsfiddle.net/virendra97/g8em0xa5/15/
