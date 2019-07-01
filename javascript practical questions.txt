@@ -1,0 +1,24 @@
+1. arrange letters of a word in ascending order
+
+//jsfiddle link
+https://jsfiddle.net/virendra97/zqhua8bv/9/
+
+2. find longest word in a string
+//jsfiddle link
+https://jsfiddle.net/virendra97/jutfwo1L/3/ 
+
+3. display date in given format(dd/mm/yyyy and mm/dd/yyyy)
+//jsfiddle link
+https://jsfiddle.net/virendra97/0srcfq4m/19/
+
+4. display sundays on 1st january between 2000 and 2050
+//jsfiddle link
+https://jsfiddle.net/virendra97/0jmt1qea/3/
+
+5. days left until next christmas
+//jsfiddle link
+https://jsfiddle.net/virendra97/dvou6xrt/4/
+
+6. delete a letter from a specified position in a string.
+//jsfiddle link
+https://jsfiddle.net/virendra97/h4xoc8eg/2/
