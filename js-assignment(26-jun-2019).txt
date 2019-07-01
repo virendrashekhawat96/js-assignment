@@ -1,0 +1,7 @@
+1. sum of 5 numbers and show error if input is string
+//jsfiddle link
+https://jsfiddle.net/virendra97/e3vwanzr/13/
+
+2. factorial of number between 5 and 10
+//jsfiddle link
+https://jsfiddle.net/virendra97/jzq1brut/40/
