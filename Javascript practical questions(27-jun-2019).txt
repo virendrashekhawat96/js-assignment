@@ -1,0 +1,20 @@
+1.display current day and time in a given format
+//jsfiddle link
+https://jsfiddle.net/virendra97/9sfncopt/2/
+
+2. find whether a given year is leap year.
+//jsfiddle link
+https://jsfiddle.net/virendra97/tf86mvoz/2/
+
+3. guess a number
+//jsfiddle link
+https://jsfiddle.net/virendra97/d8213qwx/2/
+
+4.days left until christmas
+//jsfiddle link
+https://jsfiddle.net/virendra97/dvou6xrt/4/
+
+5. capitalize first letter of each word in a string
+//jsfiddle link
+https://jsfiddle.net/virendra97/j4afwbzg/1/
+
